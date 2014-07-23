@@ -1,10 +1,21 @@
-eotms	MidBlue    	0.75 0.15 0  0	Empirically Oriented Theoretical Morphology and Syntax
-eotms-ig	MidBlue	0.75 0.15 0  0	Implemented Grammars
-sidl	RichGreen	0.6 0 0.9 0.35	Studies in Diversity Linguistics
-algad	LightOrange	0 0.50  1 0	African Language Grammars and Dictionaries
-tmnlp	DarkBlue	0.9 0.5 0.15  0.3	Translation and Multilingual Natural Language Processing
-lnls	Yellow	0 0.25  1 0	Lecture Notes in Language Sciences
-mcnc	Red	0.05  1 0.8 0	Monographs on Comparative Niger-Congo
-silp	LightWine	0.3 1 0.6 0	Studies in Laboratory Phonology
-tdgi	MidDarkBlue	0.9 0.4 0.05  0	Topics at the Discourse Grammar Interface
-cmle	NightBlue	1 0.47  0.22  0.68	Computational Models of Language Evolution
+	LightBlue	1		
+eotms	MidBlue    	2	0.75,0.15,0,0	Empirically Oriented Theoretical Morphology and Syntax
+eotms-ig	MidBlue	2	0.75,0.15,0,0	Implemented Grammars
+tdgi	MidDarkBlue	3	0.9,0.4,0.05,0	Topics at the Discourse Grammar Interface
+tmnlp	DarkBlue	4	0.9,0.5,0.15,0.3	Translation and Multilingual Natural Language Processing
+cmle	NightBlue	5	1,0.47,0.22,0.68,	Computational Models of Language Evolution
+lnls	Yellow	6	0,0.25,1,0	Lecture Notes in Language Sciences
+algad	LightOrange	7	0,0.50,1,0	African Language Grammars and Dictionaries
+	MidOrange	8		
+	DarkOrange	9		
+mcnc	Red	10	0.05,1,0.8,0	Monographs on Comparative Niger-Congo
+silp	LightWine	11	0.3,1,0.6,0	Studies in Laboratory Phonology
+	MidWine	12		
+lvs	DarkWine	13	0.58,1,0.70,0.35	Language Variation Studies
+	SoftGreen	14		
+	LightGreen	15		
+	MidGreen	16		
+sidl	RichGreen	17	0.6,0,0.9,0.35	Studies in Diversity Linguistics
+	DarkGreen1	18		
+	DarkGreen2	19		
+cfls	NightGreen	20	0.88,0.15,1,0.66	Conceptual Foundations of the Language Sciences
