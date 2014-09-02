@@ -7,7 +7,7 @@ cmle	NightBlue	5	1,0.47,0.22,0.68,	Computational Models of Language Evolution
 lnls	Yellow	6	0,0.25,1,0	Lecture Notes in Language Sciences
 algad	LightOrange	7	0,0.50,1,0	African Language Grammars and Dictionaries
 	MidOrange	8		
-	DarkOrange	9		
+scl	DarkOrange	9	0,0.78,1,0	Studies in Caribbean Languages	
 mcnc	Red	10	0.05,1,0.8,0	Monographs on Comparative Niger-Congo
 silp	LightWine	11	0.3,1,0.6,0	Studies in Laboratory Phonology
 	MidWine	12		
